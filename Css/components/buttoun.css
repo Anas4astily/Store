@@ -1,0 +1,17 @@
+.buttoun{
+    width: 52%;
+    height: 45px;
+    color:rgb(0, 0, 0);
+    font-size: 22px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #9c9884;
+    font-weight: bold;
+    
+    
+
+}
+.buttoun:hover{
+    box-shadow: 0 0 10px 2px #000000;
+    transition: 0.4s;
+}

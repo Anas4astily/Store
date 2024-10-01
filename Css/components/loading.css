@@ -1,0 +1,31 @@
+.spinner-container-submit{
+    position: fixed;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(154, 160, 166, 0.3);
+    top:0;
+    z-index: 1;
+}
+.spinner{
+    margin: 0 10px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 5px solid rgb(190, 7, 7);
+    border-top: 5px solid rgba(78, 78, 218, 0.801) ;
+    animation: rotating-spinner 1s linear infinite;
+
+}
+@keyframes rotating-spinner{
+    from{
+        transform: rotate(0deg);
+        filter: hue-rotate(360deg);
+    }
+    to{
+        transform: rotate(360deg);
+        filter: hue-rotate(0deg);
+    }
+}

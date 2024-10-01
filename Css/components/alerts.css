@@ -1,0 +1,12 @@
+.error{
+    color: #fffb00;
+    padding:16px 0 0  0 ;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    border-radius: 12px;
+    display: block;
+    width: 80%;
+    font-size: 25px;
+    font-family: "Lato",sans-serif;
+    font-weight: 500;
+}

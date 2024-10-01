@@ -1,0 +1,55 @@
+.body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.header {
+    background: #333;
+    padding: 10px 0;
+    text-align: center;
+    box-shadow: 0 0 12px rgb(0, 0, 0),0 0 16px whitesmoke , 1px 1px 1px 1px gold;
+}
+
+.main {
+    padding: 20px;
+    font-family: 'Roboto';
+}
+
+.about {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 81vh;
+}
+
+.h1, .h2, .h3 {
+    color: #333;
+}
+
+.ul {
+    list-style-type: circle 10px;
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.footer {
+    box-shadow: 0 0 14px rgb(0, 0, 0),0 0 16px whitesmoke , 1px 1px 14px 1px gold;
+    text-align: center;
+    padding: 13px 0;
+    background: #333;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.amfont{
+    cursor: pointer;
+}
+.amfont:hover{
+    color:green;
+    
+}

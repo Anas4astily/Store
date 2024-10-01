@@ -1,0 +1,24 @@
+.category-title{
+    transition: 0.3s;
+    -moz-transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -ms-transition:0.3s;
+    -o-transition: 0.3s;
+    text-decoration:none;
+    font-weight: bold;
+    font-size: 18px;
+    
+
+}
+.category-title:hover{
+    color: rgba(60, 60, 204, 0.884) !important;
+}
+.custom-search{
+    color: rgba(0,0,0,0.5);
+
+}
+.custom-search:focus{
+    box-shadow: 0 0 8px 0 rgba(22, 96, 165, 0.774) !important;
+    border: rgba(32, 45, 121, 0.815) !important;
+    outline: rgba(0,0,0,0.1) !important;
+}

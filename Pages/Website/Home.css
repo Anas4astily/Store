@@ -1,0 +1,57 @@
+.hand {
+  background-image: url("../../Assets/Images/Lap.jpg");
+  background-size: cover;
+  background-position: left;
+  height: 100vh;
+}
+
+.nice {
+  background-color: rgba(12, 11, 11, 0.103);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.486);
+}
+.animation {
+  color: rgb(238, 247, 250);
+  font-family: "Roboto";
+}
+.bg-footer {
+  background-color: rgb(41, 41, 38);
+  color: whitesmoke;
+}
+
+.teamonhome {
+  background-color: red;
+  position: absolute;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cardtextonhome{
+  font-size: 20px;
+  
+}
+
+.phome{
+  color: green;
+  font-size: 22px;
+  font-family: 'roboto';
+}
+
+.link{
+  font-family: 'roboto';
+  color: rgb(17, 0, 255);
+  text-decoration: none;
+}
+.link:hover{
+  color: black;
+  transition: 0.3s;
+
+}
+
+
+.ss:hover{
+  background-color: rgb(197, 183, 183);
+  transition: 0.32s;
+  border: 1px solid rgba(52, 180, 13, 0.856);
+
+}
