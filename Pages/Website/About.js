@@ -75,7 +75,7 @@ export default function About() {
                   icon={faPhone}
                   style={{ fontSize: "18px", color: "green" }}
                 />
-                : +963-982-694-571
+                : +963-982-694-572
               </p>
             </div>
             <div className="d-flex align-items-start justify-content-start gap-4 flex-wrap ">
