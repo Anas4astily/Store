@@ -56,7 +56,7 @@ export default function Team() {
               >
                 <FontAwesomeIcon icon={faPhone} />{" "}
                 <span hidden={showphone} style={{ transition: "3s"}}>
-                  : +963-982-694-571
+                  : +963-982-694-572
                 </span>
               </Button>
               <Button variant="danger" onClick={() => setshow((prev) => !prev)}>
@@ -106,7 +106,7 @@ export default function Team() {
               >
                 <FontAwesomeIcon icon={faPhone} />{" "}
                 <span hidden={showphone} style={{ transition: "3s" }}>
-                  : +963-982-694-571
+                  : +963-982-694-572
                 </span>
               </Button>
               <Button variant="danger" onClick={() => setshow((prev) => !prev)}>
@@ -156,7 +156,7 @@ export default function Team() {
               >
                 <FontAwesomeIcon icon={faPhone} />{" "}
                 <span hidden={showphone} style={{ transition: "3s" }}>
-                  : +963-982-694-571
+                  : +963-982-694-572
                 </span>
               </Button>
               <Button variant="danger" onClick={() => setshow((prev) => !prev)}>
@@ -206,7 +206,7 @@ export default function Team() {
               >
                 <FontAwesomeIcon icon={faPhone} />{" "}
                 <span hidden={showphone} style={{ transition: "3s" }}>
-                  : +963-982-694-571
+                  : +963-982-694-572
                 </span>
               </Button>
               <Button variant="danger" onClick={() => setshow((prev) => !prev)}>
@@ -256,7 +256,7 @@ export default function Team() {
               >
                 <FontAwesomeIcon icon={faPhone} />{" "}
                 <span hidden={showphone} style={{ transition: "3s" }}>
-                  : +963-982-694-571
+                  : +963-982-694-572
                 </span>
               </Button>
               <Button variant="danger " onClick={() => setshow((prev) => !prev)}>
